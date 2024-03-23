@@ -1,0 +1,21 @@
+.minhaNav{
+    background-color: rgb(235,100,64);
+    display: flex;
+    padding: 0.1rem 160px;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.logoNav{
+    width: 73px;
+    transform: rotate(180deg);
+    display: inline;
+}
+.ulNav{
+    list-style-type: none;
+    display: inline;
+}
+.liNav{
+    display: inline;
+    padding-left: 20px;
+}

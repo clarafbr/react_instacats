@@ -1,0 +1,139 @@
+.minhaMain {
+    margin: 50px;
+}
+
+div {
+    width:1200px;
+}
+
+.foto1 {
+    box-sizing: border-box;
+    width: 400px;
+    height: 640px;
+    left: 120px;
+    top: 160px;
+
+    background: url(cat01.jpg);
+    border: 2px solid #FFFFFF;
+
+}
+
+.foto2 {
+
+    box-sizing: border-box;
+    width: 400px;
+    height: 640px;
+    left: 520px;
+    top: 160px;
+    background: url(cat02.jpg);
+    border: 2px solid #FFFFFF;
+
+}
+
+.foto3 {
+    box-sizing: border-box;
+    width: 400px;
+    height: 640px;
+    left: 920px;
+    top: 160px;
+    background: url(cat05.jpg);
+    border: 2px solid #FFFFFF;
+}
+
+.foto4 {
+    box-sizing: border-box;
+    width: 600px;
+    height: 640px;
+    left: 720px;
+    top: 800px;
+    background: url(cat08.jpg);
+    border: 2px solid #FFFFFF;
+}
+
+.foto5 {
+    box-sizing: border-box;
+    width: 601px;
+    height: 640px;
+    left: 119px;
+    top: 800px;
+    background: url(cat11.jpg);
+    border: 2px solid #FFFFFF;
+}
+
+.foto6 {
+    box-sizing: border-box;
+    width: 1200px;
+    height: 640px;
+    left: 120px;
+    top: 1440px;
+    background: url(cat04.jpg);
+    border: 2px solid #FFFFFF;
+}
+
+.foto7 {
+    box-sizing: border-box;
+    width: 400px;
+    height: 640px;
+    left: 120px;
+    top: 2080px;
+    background: url(cat12.jpg);
+    border: 2px solid #FFFFFF;
+}
+
+.foto8 {
+    box-sizing: border-box;
+    width: 400px;
+    height: 640px;
+    left: 520px;
+    top: 2080px;
+    background: url(cat09.jpg);
+    border: 2px solid #FFFFFF;
+
+}
+
+.foto9 {
+
+    box-sizing: border-box;
+    width: 400px;
+    height: 640px;
+    left: 920px;
+    top: 2080px;
+    background: url(cat06.jpg);
+    border: 2px solid #FFFFFF;
+
+}
+
+.foto10 {
+
+    box-sizing: border-box;
+    width: 601px;
+    height: 640px;
+    left: 119px;
+    top: 2720px;
+    background: url(cat03.jpg);
+    border: 2px solid #FFFFFF;
+}
+
+.foto11 {
+
+    box-sizing: border-box;
+    width: 601px;
+    height: 640px;
+    left: 719px;
+    top: 2720px;
+    background: url(cat13.jpg);
+    border: 2px solid #FFFFFF;
+
+}
+
+.foto12 {
+
+    box-sizing: border-box;
+    width: 1200px;
+    height: 640px;
+    left: 120px;
+    top: 3360px;
+    background: url(cat07.jpg);
+    border: 2px solid #FFFFFF;
+
+}
